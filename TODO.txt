@@ -1,0 +1,23 @@
+TO DO
+
+Faire la mise en forme de l'admin
+Créer une authentification
+
+Faire une gestion des images
+Faire la page d'admin du site
+Faire la page d'admin des pages
+Faire l'édtion du profil
+remplacer l'edition textarea par W5
+
+Améliorer le script de validation de formulaire, envoyer le message success via controller. -> JSON dans les 2 cas.
+
+Faire le programme d'auto install (Composer, migrate, seed)
+
+
+
+http://www.ansonika.com/bed-and-breakfast/#
+http://themeforest.net/item/bedbreakfast-responsive-single-page/4832335?ref=ansonika
+
+http://themeforest.net/item/hotel-classica-clean-minimalist-html-template/full_screen_preview/522501
+http://themeforest.net/item/atourist-hotel-travel-booking-site-template/full_screen_preview/4541621
+http://live.bobosh.com/?theme=Travelium

@@ -1,0 +1,33 @@
+User; hm Website;
+    id increments
+    username string 50;
+    password string 64
+    email string 64
+    type enum admin, user
+    
+Website; hm Page
+	id increments
+	title string 128
+	description string 256
+	ga string 16
+
+Page; hm Content
+	id increments
+	title string 128
+	description string 256
+	url string 128
+
+Content
+	id increments
+	tag string 16
+	content string 1024
+
+Template; hm Page
+	id increments
+	title string 128
+	url string 256
+
+Language
+	id increments
+	code string 8
+	name string 32
