@@ -1,0 +1,1366 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"output",
+				"output_style"
+			],
+			[
+				"transition",
+				"transitionOut"
+			],
+			[
+				"tran",
+				"transitionIn"
+			],
+			[
+				"transi",
+				"transitionOut"
+			],
+			[
+				"tra",
+				"transitionIn"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
+				"z-in",
+				"z-index"
+			],
+			[
+				"message",
+				"messageType"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"contr",
+				"controls"
+			],
+			[
+				"contro",
+				"control-group"
+			],
+			[
+				"contrl",
+				"controls"
+			],
+			[
+				"Form",
+				"Form	Laravel: Form::label()"
+			],
+			[
+				"ri",
+				"right-panel"
+			],
+			[
+				"Ses",
+				"Session	Laravel: Session::start()"
+			],
+			[
+				"Sessi",
+				"Session	Laravel: Session::instance()"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"Au",
+				"Auth	Laravel: Auth::user()"
+			],
+			[
+				"Has",
+				"Hash	Laravel: Hash::make()"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"me",
+				"myResp"
+			],
+			[
+				"URL",
+				"URL	Laravel: URL::full()"
+			],
+			[
+				"site",
+				"sitesettings"
+			],
+			[
+				"my",
+				"myResp"
+			],
+			[
+				"ha",
+				"hashed"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"Eve",
+				"Event	Laravel: Event::listen()"
+			],
+			[
+				"Crypt",
+				"Crypter	Laravel: Crypter::decrypt()"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"In",
+				"Input	Laravel: Input::all()"
+			],
+			[
+				"form",
+				"formAuthentication"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"Aut",
+				"Auth	Laravel: Auth::attempt()"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"Respo",
+				"Response	Laravel: Response::view()"
+			],
+			[
+				"AU",
+				"Auth	Laravel: Auth::check()"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"z",
+				"z-in	z-index"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"z-i",
+				"z-index"
+			],
+			[
+				"l",
+				"link"
+			],
+			[
+				"Req",
+				"Request	Laravel: Request::ip()"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"right",
+				"right-panel"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"with",
+				"with"
+			],
+			[
+				"wit",
+				"withInput"
+			],
+			[
+				"Res",
+				"Response	Laravel: Response::view()"
+			],
+			[
+				"I",
+				"Input	Laravel: Input::all()"
+			],
+			[
+				"reu",
+				"return"
+			],
+			[
+				"lab",
+				"label normal	Bootstrapper: Labels::normal('label text')"
+			],
+			[
+				"View",
+				"View	Laravel: View::composer()"
+			],
+			[
+				"For",
+				"Form	Laravel: Form::input()"
+			],
+			[
+				"di",
+				"disable"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"Vi",
+				"View	Laravel: View::make()"
+			],
+			[
+				"A",
+				"Auth	Laravel: Auth::user()"
+			],
+			[
+				"la",
+				"layout"
+			],
+			[
+				"Auth",
+				"Auth	Laravel: Auth::user()"
+			],
+			[
+				"vie",
+				"View"
+			],
+			[
+				"stat",
+				"stats_covariance"
+			],
+			[
+				"Cont",
+				"content"
+			],
+			[
+				"cont",
+				"ContentTag"
+			],
+			[
+				"find",
+				"findView"
+			],
+			[
+				"data",
+				"data-placement"
+			],
+			[
+				"num",
+				"numO"
+			],
+			[
+				"Content",
+				"ContentTag"
+			],
+			[
+				"conte",
+				"ContentTag"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"page",
+				"pageContent"
+			],
+			[
+				"vard",
+				"var_dump"
+			],
+			[
+				"list",
+				"listTag"
+			],
+			[
+				"expl",
+				"explodedPage"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"sho",
+				"showPage"
+			],
+			[
+				"Log",
+				"Log	Laravel: Log::write()"
+			],
+			[
+				"Lo",
+				"Log	Laravel: Log::exception()"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"bootstra",
+				"bootstrap"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"rg",
+				"rgba	rgba()"
+			],
+			[
+				"hei",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/assets/css/main.css",
+			"settings":
+			{
+				"buffer_size": 2828,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/site/page.blade.php",
+			"settings":
+			{
+				"buffer_size": 5033,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files/wamp/bin/apache/apache2.2.22/conf/httpd.conf",
+			"settings":
+			{
+				"buffer_size": 17613,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files/wamp/bin/apache/apache2.2.22/conf/extra/httpd-vhosts.conf",
+			"settings":
+			{
+				"buffer_size": 1422,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/assets/js/main.js",
+			"settings":
+			{
+				"buffer_size": 813,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/site/layout.blade.php",
+			"settings":
+			{
+				"buffer_size": 1392,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"artis",
+				"Laravel Artisan Command"
+			],
+			[
+				"lara",
+				"Laravel Generate: Scaffold"
+			],
+			[
+				"gener",
+				"Laravel Generate: Scaffold"
+			],
+			[
+				"gene",
+				"Laravel Generate: Resource"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"comman",
+				"Laravel Artisan Command"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git:",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Github: Blame"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"consol",
+				"Set Syntax: R Console"
+			],
+			[
+				"pak",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Program Files/wamp/www/NewCMS/app/views/site/layout.blade.php",
+		"/C/Program Files/wamp/www/NathalieOdiot/css/main.css",
+		"/C/Program Files/wamp/www/lesnaths/main.css",
+		"/C/Program Files/wamp/www/NewCMS/app/views/admin/partial/toolbar.blade.php",
+		"/C/Program Files/wamp/www/NewCMS/public/assets/css_test/admin.css",
+		"/C/Program Files/wamp/www/Compass/sass/screen.scss",
+		"/C/Program Files/wamp/www/NewCMS/public/assets/js/main.js",
+		"/C/Program Files/wamp/www/NewCMS/app/views/site/page.blade.php",
+		"/C/Program Files/wamp/www/NewCMS/app/controllers/UserController.php",
+		"/C/Program Files/wamp/www/NewCMS/app/controllers/PageController.php",
+		"/C/Program Files/wamp/www/NewCMS/app/views/admin/partial/editUser.blade.php",
+		"/C/Program Files/wamp/www/NewCMS/public/assets/admin.js",
+		"/C/Program Files/wamp/www/NewCMS/public/assets/css/main.css",
+		"/C/Program Files/wamp/www/Compass/config.rb",
+		"/C/Program Files/wamp/www/Compass/css/screen.css",
+		"/C/Users/remis_000/AppData/Local/Temp/fz3temp-1/info.php",
+		"/C/Program Files/wamp/www/NewCMS/public/assets/admin.css",
+		"/C/Program Files/wamp/www/NewCMS/app/routes.php",
+		"/C/Program Files/wamp/www/NewCMS/app/views/admin/partial/editPage.blade.php",
+		"/C/Program Files/wamp/www/NewCMS/app/views/admin/sitesettings.blade.php",
+		"/C/Program Files/wamp/www/NewCMS/app/views/admin/partial/alert.blade.php",
+		"/C/Program Files/wamp/www/NewCMS/app/views/admin/layout.blade.php",
+		"/C/Program Files/wamp/www/NewCMS/app/views/admin/layout-auth.blade.php",
+		"/C/Program Files/wamp/www/NewCMS/TODO.txt",
+		"/C/Program Files/wamp/www/NewCMS/public/assets/bootstrap/css/bootstrap.css",
+		"/C/Program Files/wamp/www/NewCMS/public/assets/css/bootstrap.css",
+		"/C/Program Files/wamp/www/NewCMS/app/models/Content.php",
+		"/C/Program Files/wamp/www/NewCMS/app/views/admin/authent.blade.php",
+		"/C/Users/remis_000/Desktop/Bed and Breakfast Single page.htm",
+		"/C/Program Files/wamp/www/NewCMS/app/views/admin/partial/editUser.blade",
+		"/C/Program Files/wamp/www/NewCMS/app/config/session.php",
+		"/C/Program Files/wamp/www/NewCMS/app/database/seeds/DatabaseSeeder.php",
+		"/C/Program Files/wamp/www/NewCMS/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/Fixtures/MultipleClassesInFile.php",
+		"/C/Program Files/wamp/www/NewCMS/app/database/migrations/2013_07_08_222732_create_users_table.php",
+		"/C/Program Files/wamp/www/NewCMS/app/controllers/RouteController.php",
+		"/C/Program Files/wamp/www/NewCMS/app/models/Page.php",
+		"/C/Program Files/wamp/www/NewCMS - Copie/app/models/User.php",
+		"/C/Program Files/wamp/www/NewCMS/app/models/User.php",
+		"/C/Program Files/wamp/www/NewCMS - Copie/app/models/Template.php",
+		"/C/Program Files/wamp/www/NewCMS - Copie/app/models/Page.php",
+		"/C/Program Files/wamp/www/NewCMS - Copie/app/models/Language.php",
+		"/C/Program Files/wamp/www/NewCMS - Copie/app/models/Content.php",
+		"/C/Program Files/wamp/www/laravel/application/models/Profil.php",
+		"/C/Program Files/wamp/www/laravel/application/models/User.php",
+		"/C/Program Files/wamp/www/laravel/application/controllers/user.php",
+		"/C/Program Files/wamp/www/laravel/application/controllers/profil.php",
+		"/C/Program Files/wamp/www/laravel/application/controllers/login.php",
+		"/C/Program Files/wamp/www/NewCMS/app/start/global.php",
+		"/C/Program Files/wamp/www/NewCMS/app/library/message.php",
+		"/C/Program Files/wamp/www/NewCMS/composer.json",
+		"/C/Program Files/wamp/www/NewCMS/public/assets/x-editable/bootstrap-editable/js/bootstrap-editable.js",
+		"/C/Program Files/wamp/www/NewCMS/app/library/Message.php",
+		"/C/Program Files/wamp/www/NewCMS/composer.phar",
+		"/C/Program Files/wamp/www/NewCMS/app/controllers/BaseController.php",
+		"/C/Program Files/wamp/www/NewCMS/public/assets/x-editable/inputs-ext/wysihtml5/wysihtml5/bootstrap-wysihtml5-0.0.2.js",
+		"/C/Program Files/wamp/www/NewCMS/app/controllers/ContentController.php",
+		"/C/Program Files/wamp/www/NewCMS/public/assets/x-editable/inputs-ext/wysihtml5/wysihtml5.js",
+		"/C/Program Files/wamp/www/NewCMS/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/test/page_test.php",
+		"/C/Program Files/wamp/www/NewCMS/app/views/site/test.blade.php",
+		"/C/Program Files/wamp/www/NewCMS/app/views/site/layout_.blade.php",
+		"/C/Program Files/wamp/www/NewCMS/app/views/site/layout2.blade",
+		"/C/Program Files/wamp/www/NewCMS/app/views/site/layout2.blade.php",
+		"/C/Users/remis_000/Desktop/index.html",
+		"/C/Program Files/wamp/www/myCMS/admin/css/main.css",
+		"/C/Program Files/wamp/www/laravel/application/views/partials/user-menu.blade.php",
+		"/C/Program Files/wamp/www/laravel/application/views/home/index.blade.php",
+		"/C/Program Files/wamp/www/laravel/application/views/guest/index.blade.php",
+		"/C/Program Files/wamp/www/myCMS/admin/html/editTag.php",
+		"/C/Program Files/wamp/www/laravel/application/views/partials/login.blade.php",
+		"/C/Program Files/wamp/www/myCMS/admin/html/table.php",
+		"/C/Program Files/wamp/www/myCMS/admin/inc/display.php",
+		"/C/Program Files/wamp/www/myCMS/admin/inc/edit-tag.php",
+		"/C/Program Files/wamp/www/NewCMS/vendor/laravel/framework/tests/Database/DatabaseEloquentBelongsToTest.php",
+		"/C/Program Files/wamp/www/NewCMS/app/views/admin/siteSettings.blade.php",
+		"/C/Program Files/wamp/www/laravel/application/routes.php",
+		"/C/Program Files/wamp/www/laravel/application/views/guest/template.blade.php",
+		"/C/Program Files/wamp/www/NewCMS/app/views/admin/sitesettings.blade",
+		"/C/Program Files/wamp/www/NewCMS/app/views/hello.php",
+		"/C/Program Files/wamp/www/NewCMS/app/views/admin/site-settings.blade",
+		"/C/Program Files/wamp/www/NewCMS/app/views/admin/siteSettings.blade",
+		"/C/Program Files/wamp/www/myCMS/admin/html/listTags.php",
+		"/C/Program Files/wamp/www/NewCMS/app/tests/TestCase.php",
+		"/C/Program Files/wamp/www/NewCMS/public/assets/demo-mock.js",
+		"/C/Program Files/wamp/www/NewCMS/public/assets/demo.css",
+		"/C/Program Files/wamp/www/NewCMS/app/views/error/404.php",
+		"/C/Program Files/wamp/www/laravel/application/views/error/404.php",
+		"/C/Program Files/wamp/www/NewCMS/app/views/error/404.blade.php",
+		"/C/Program Files/wamp/www/NewCMS/app/views/site/index.blade.php",
+		"/C/Program Files/wamp/www/NewCMS/vendor/laravel/framework/src/Illuminate/Routing/Controllers/Controller.php",
+		"/C/Program Files/wamp/www/NewCMS/vendor/laravel/framework/tests/Routing/fixtures/controller.php",
+		"/C/Program Files/wamp/www/TESTS/x-editable/x-editable-gh-pages/demo.html",
+		"/C/Program Files/wamp/www/NewCMS/public/assets/demo.js",
+		"/C/Program Files/wamp/www/TESTS/x-editable/x-editable-gh-pages/assets/demo.js",
+		"/C/Program Files/wamp/www/NewCMS/Model.txt",
+		"/C/Program Files/wamp/www/NewCMS/app/views/admin/test.blade.php",
+		"/C/Program Files/wamp/www/NewCMS/public/.htaccess",
+		"/C/Program Files/wamp/www/NewCMS/app/config/auth.php",
+		"/C/Program Files/wamp/bin/apache/apache2.2.22/conf/extra/httpd-vhosts.conf",
+		"/C/Windows/System32/Drivers/etc/hosts",
+		"/C/Users/remis_000/Desktop/initializr/index.html",
+		"/C/Program Files/wamp/www/NewCMS/public/assets/main.js",
+		"/C/Program Files/wamp/www/NewCMS/public/assets/newrecord.js",
+		"/C/Users/remis_000/AppData/Local/Temp/Temp1_x-editable-gh-pages.zip/x-editable-gh-pages/backend-samples/php/index.php",
+		"/C/Program Files/wamp/www/TESTS/x-editable/x-editable-gh-pages/backend-samples/php/index.php",
+		"/C/Program Files/wamp/www/TESTS/x-editable/package.json",
+		"/C/Program Files/wamp/www/NewCMS/app/models/Template.php",
+		"/C/Program Files/wamp/www/myCMS/admin/inc/functions.php",
+		"/C/Program Files/wamp/www/myCMS/index.php",
+		"/C/Program Files/wamp/www/myCMS/config.php",
+		"/C/Program Files/wamp/www/myCMS/admin/index.php",
+		"/C/Program Files/wamp/www/NewCMS/app/models/Lang.php",
+		"/C/Program Files/wamp/www/NewCMS/app/database/migrations/2013_07_08_135647_create_contents_table.php",
+		"/C/Program Files/wamp/www/SANDBOX/application/views/home/index.blade.php",
+		"/C/Program Files/wamp/www/123/laravel/app/views/websites/index.blade.php",
+		"/C/Program Files/wamp/www/123/laravel/app/views/layouts/scaffold.blade.php",
+		"/C/Program Files/wamp/www/123/laravel/app/views/websites/edit.blade.php",
+		"/C/Program Files/wamp/www/123/laravel/app/views/home.blade.php",
+		"/C/Program Files/wamp/www/NewCMS/app/controllers/HomeController.php",
+		"/C/Program Files/wamp/www/NewCMS/app/models/Website.php",
+		"/C/Program Files/wamp/www/NewCMS/app/config/database.php",
+		"/C/Program Files/wamp/www/NewCMS/app/database/migrations/2013_07_07_140512_create_websites_table.php",
+		"/C/Program Files/wamp/www/NewCMS/app/config/app.php",
+		"/C/Program Files/wamp/www/123/laravel/app/routes.php",
+		"/C/Program Files/wamp/www/123/laravel/app/tests/Dog.php",
+		"/C/Program Files/wamp/www/123/laravel/app/storage/logs/log-apache2handler-2013-07-05.txt",
+		"/C/Program Files/wamp/www/123/laravel/app/storage/logs/log-cli-2013-07-05.txt",
+		"/C/Program Files/wamp/www/123/laravel/app/start/global.php",
+		"/C/Program Files/wamp/www/123/laravel/bootstrap/start.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Program Files\\wamp\\www\\NewCMS\\app,",
+			"/app",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"80",
+			"top",
+			"300,",
+			"style",
+			".styl",
+			".dropdown ",
+			"#right-panel ",
+			".authent ",
+			"dropdown",
+			"#SetupSite",
+			"#toolbar",
+			"section",
+			"/h3>",
+			"h3>lipsum*",
+			"</a>",
+			"</li>",
+			"255",
+			"0",
+			"span3",
+			"li><",
+			"li",
+			"firstname",
+			"url",
+			"lastname",
+			"firstname",
+			"page",
+			"url",
+			"URL",
+			"url",
+			"title",
+			"woff",
+			"http://themes.googleusercontent.com/static/fonts/raleway/v6/",
+			"http://themes.googleusercontent.com/static/fonts/raleway/v6/8KhZd3VQBtXTAznvKjw-kxsxEYwM7FgeyaSgU71cLG0.woff",
+			"hel",
+			"100",
+			"json",
+			"back",
+			"tabindex=\"-1\"",
+			"318s",
+			"z-in",
+			"255",
+			"0",
+			"seed",
+			".wysihtml5({",
+			"wysihtml5",
+			"wysihtml5({",
+			"textarea",
+			"texta",
+			"#editable",
+			"seedPage",
+			"img/",
+			"/css",
+			"\"css",
+			"css",
+			"btn",
+			"page",
+			"5",
+			"admin",
+			"$page",
+			"user",
+			"td",
+			"tr",
+			"editable-disable",
+			"disable",
+			"href=\"#\"",
+			"href",
+			"255",
+			"0",
+			"small",
+			"50px",
+			"100px",
+			"#000",
+			"15",
+			"bootstrap-wysihtml5-0.0.2/",
+			"bootstrap-wysihtml5",
+			"bootstrap-",
+			"layout",
+			"editable",
+			"class=\"edi",
+			".editable",
+			".edit",
+			"	\n",
+			"../..",
+			"main.css",
+			"main.js",
+			"assets",
+			"servep",
+			"pop",
+			"Lang::",
+			"page",
+			"Page",
+			"page",
+			"Page",
+			"listen",
+			"}}",
+			"{{",
+			"      =>",
+			"150",
+			"300",
+			"usr",
+			"cnf",
+			"ssl",
+			"controle",
+			"cli",
+			"backg",
+			"center",
+			"-image",
+			"image",
+			"Image",
+			"image",
+			"href=\"",
+			"128",
+			"; ; ",
+			"\n",
+			"; ; ",
+			"\n",
+			"16H",
+			"17H"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"?>",
+			"<?php",
+			"\n",
+			"; ",
+			"",
+			"; "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/assets/css/main.css",
+					"settings":
+					{
+						"buffer_size": 2828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2619,
+								2619
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2195.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/site/page.blade.php",
+					"settings":
+					{
+						"buffer_size": 5033,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3723,
+								3723
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/laravel-blade/laravel-blade-master/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 978.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Program Files/wamp/bin/apache/apache2.2.22/conf/httpd.conf",
+					"settings":
+					{
+						"buffer_size": 17613,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7568,
+								7570
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2771.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Program Files/wamp/bin/apache/apache2.2.22/conf/extra/httpd-vhosts.conf",
+					"settings":
+					{
+						"buffer_size": 1422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1386,
+								1386
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 453.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/assets/js/main.js",
+					"settings":
+					{
+						"buffer_size": 813,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/site/layout.blade.php",
+					"settings":
+					{
+						"buffer_size": 1392,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								864,
+								864
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 43.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"lay",
+				"app/views/site/layout.blade.php"
+			],
+			[
+				"main.",
+				"public/assets/js/main.js"
+			],
+			[
+				"main",
+				"public/assets/css/main.css"
+			],
+			[
+				"ma",
+				"main.css"
+			],
+			[
+				"admi",
+				"public/assets/admin.js"
+			],
+			[
+				"tool",
+				"app/views/admin/partial/toolbar.blade.php"
+			],
+			[
+				"layo",
+				"app/views/admin/layout.blade.php"
+			],
+			[
+				"admin",
+				"public/assets/admin.css"
+			],
+			[
+				"site/",
+				"app/views/site/page.blade.php"
+			],
+			[
+				"assets/css/mai",
+				"public/assets/css/main.css"
+			],
+			[
+				"route",
+				"app/routes.php"
+			],
+			[
+				"use",
+				"app/controllers/UserController.php"
+			],
+			[
+				"page",
+				"app/controllers/PageController.php"
+			],
+			[
+				"admins",
+				"public/assets/admin.js"
+			],
+			[
+				"edit",
+				"app/views/admin/partial/editUser.blade.php"
+			],
+			[
+				"layou",
+				"app/views/site/layout.blade.php"
+			],
+			[
+				"layout",
+				"app/views/admin/layout.blade.php"
+			],
+			[
+				"site",
+				"app/views/admin/sitesettings.blade.php"
+			],
+			[
+				"alert",
+				"app/views/admin/partial/alert.blade.php"
+			],
+			[
+				"todo",
+				"TODO.txt"
+			],
+			[
+				"u",
+				"app/controllers/UserController.php"
+			],
+			[
+				"bootstr",
+				"public/assets/bootstrap/css/bootstrap.css"
+			],
+			[
+				"boot",
+				"public/assets/css/bootstrap.css"
+			],
+			[
+				"pageco",
+				"app/controllers/PageController.php"
+			],
+			[
+				"user",
+				"app/controllers/UserController.php"
+			],
+			[
+				"pagec",
+				"app/controllers/PageController.php"
+			],
+			[
+				"sess",
+				"app/config/session.php"
+			],
+			[
+				"auth",
+				"app/views/admin/authent.blade.php"
+			],
+			[
+				"userc",
+				"app/controllers/UserController.php"
+			],
+			[
+				"cont",
+				"app/models/Content.php"
+			],
+			[
+				"conte",
+				"app/models/Content.php"
+			],
+			[
+				"to",
+				"TODO.txt"
+			],
+			[
+				"adm",
+				"public/assets/admin.js"
+			],
+			[
+				"tod",
+				"TODO.txt"
+			],
+			[
+				"t",
+				"TODO.txt"
+			],
+			[
+				"mess",
+				"app/library/message.php"
+			],
+			[
+				"con",
+				"app/models/Content.php"
+			],
+			[
+				"pag",
+				"app/controllers/PageController.php"
+			],
+			[
+				"admin/la",
+				"app/views/admin/layout.blade.php"
+			],
+			[
+				"rout",
+				"app/routes.php"
+			],
+			[
+				"rou",
+				"app/routes.php"
+			],
+			[
+				"tot",
+				"vendor/laravel/framework/tests/Database/DatabaseEloquentBelongsToTest.php"
+			],
+			[
+				"test",
+				"app/views/site/test.blade.php"
+			],
+			[
+				"conten",
+				"app/models/Content.php"
+			],
+			[
+				"base",
+				"app/controllers/BaseController.php"
+			],
+			[
+				"controller",
+				"vendor/laravel/framework/src/Illuminate/Routing/Controllers/Controller.php"
+			],
+			[
+				"index.b",
+				"app/views/site/index.blade.php"
+			],
+			[
+				"demo",
+				"public/assets/demo.js"
+			],
+			[
+				"globa",
+				"app/start/global.php"
+			],
+			[
+				"model",
+				"Model.txt"
+			],
+			[
+				"filter",
+				"app/filters.php"
+			],
+			[
+				"glo",
+				"app/start/global.php"
+			],
+			[
+				"home",
+				"app/views/home.blade.php"
+			],
+			[
+				"filters",
+				"app/filters.php"
+			],
+			[
+				"lo",
+				"app/start/local.php"
+			],
+			[
+				"local",
+				"app/start/local.php"
+			],
+			[
+				"global",
+				"app/start/global.php"
+			],
+			[
+				"start",
+				"bootstrap/start.php"
+			],
+			[
+				"paths",
+				"bootstrap/paths.php"
+			],
+			[
+				"main.cs",
+				"public/css/main.css"
+			],
+			[
+				"read",
+				"readme.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Program Files/wamp/www/laravel/Partners.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true
+}

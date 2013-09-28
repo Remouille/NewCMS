@@ -37,6 +37,7 @@ Route::group(array('prefix' => 'admin', 'before' => 'auth'), function()
 	Route::any('content/quicksave', 'ContentController@QuickSave');
 	Route::controller('content', 'ContentController');
 	Route::controller('page', 'PageController');
+	Route::controller('user', 'UserController');
 	
 	
 	Route::any('{slug}', function($slug)

@@ -39,4 +39,38 @@ class UserController extends BaseController {
 	{
 		return View::make('admin.partial.editUser', array('user' => User::find($id) ) );
 	}
+
+	public function postUpdate($id='')
+	{
+		$rule = array(
+			'username' => 'Required|min:4|unique:users,username,'.Input::get('id'),
+			'email' => 'Required|unique:users,email,'.Input::get('id'),
+			'avatar' => 'image|max:3000'
+		);
+
+		$validator = Validator::make(Input::all(), $rule);
+
+		if ($validator->fails()){
+			$response = $validator->messages();
+			return Response::json($response);
+		}else{
+			// Enregistrement !
+			$user = User::find(Input::get('id'));
+			$user->username = Input::get('username');
+			$user->firstname = Input::get('firstname');
+			$user->lastname = Input::get('lastname');
+			$user->email = Input::get('email');
+			// $user->avatar = Input::file('avatar')->getSize();
+			// var_dump(Input::file('file'));
+			$user->avatar = Input::file('file')->getClientOriginalName();
+			$user->save();
+
+			// Création de la réponse 
+			$resp = new stdClass;
+			$resp->resp = true;
+			$resp->messages = '<div class="alert alert-success message"><strong>Well done !</strong> It\'s correctly saved.</div>';
+			$resp->redirect = '?';
+			return Response::json($resp);
+		}
+	}
 }
